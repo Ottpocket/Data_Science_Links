@@ -12,3 +12,5 @@ Tabnet: https://github.com/dreamquark-ai/tabnet
 pyTorch Tabular: https://deep-and-shallow.com/2021/01/27/pytorch-tabular-a-framework-for-deep-learning-for-tabular-data/
 
 pytorch Tabular Kaggle Notebook: https://www.kaggle.com/manujosephv/tps-march-pytorch-tabular-starter-notebook
+
+Ensembling https://mlwave.com/kaggle-ensembling-guide/
